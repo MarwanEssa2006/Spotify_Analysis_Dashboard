@@ -25,7 +25,7 @@ This project transforms raw Spotify Top 50 ranking data into **actionable busine
 
 ---
 
-## 📊 **Dashboard Pages**
+## 📊 **Dashboard Pages & Preview**
 
 ### 1️⃣ Overview Page
 - Total Songs  
@@ -37,17 +37,27 @@ This project transforms raw Spotify Top 50 ranking data into **actionable busine
 - Monthly & Yearly trend analysis  
 - Top Songs & Top Artists  
 
+<img width="1000" alt="Overview Page" src="https://github.com/user-attachments/assets/920c3fb0-714c-4599-a3ce-eff32c405a79" />
+
+---
+
 ### 2️⃣ Artist Analysis Page
 - Top Artists by Popularity  
 - Tracks per Album  
 - Drill-down to artist-level details  
 - Consistency and #1 position tracking  
 
+<img width="1000" alt="Artists Analysis Page" src="https://github.com/user-attachments/assets/67b1ea79-a979-4dd4-a289-9b1359e16807" />
+
+---
+
 ### 3️⃣ Songs Analysis Page
 - Top Songs Ranking  
 - Album/Single distribution  
 - Detailed performance table  
 - Popularity & position analysis  
+
+<img width="1000" alt="Songs Analysis Page" src="https://github.com/user-attachments/assets/5175ffb6-31e1-4cab-8fd9-839f4c8fed40" />
 
 ---
 
@@ -92,6 +102,3 @@ This project transforms raw Spotify Top 50 ranking data into **actionable busine
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwanessa-fullstack)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MarwanEssa2006)
-
-
-
