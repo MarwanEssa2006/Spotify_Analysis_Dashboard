@@ -93,8 +93,5 @@ This project transforms raw Spotify Top 50 ranking data into **actionable busine
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwanessa-fullstack)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MarwanEssa2006)
 
----
 
-## 💡 **Repository Description (Short)**
 
-"Interactive Power BI dashboard analyzing Spotify Global Top 50 to uncover song and artist trends, with actionable business insights."
